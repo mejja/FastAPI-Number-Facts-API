@@ -115,7 +115,7 @@ docker run -p 8000:8000 number-fact-api
 ---
 
 ## Contributors
-- **[Your Name]** - HNG DevOps Intern
+- **Major Mbandi** - HNG DevOps Intern 2025 intake
 - **Community Contributions Welcome!**
 
 ---
